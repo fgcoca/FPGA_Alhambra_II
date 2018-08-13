@@ -42,6 +42,9 @@ En los siguientes enlaces podemos ver un video de prueba con los LEDs internos d
 * [Test-1](https://youtu.be/c4QdQ5LqcVw)
 * [A2-user-test-Reload](https://youtu.be/j2aKBtynkGg)
 
+## **Enlaces**
+ [Piezas en thingiverse](https://www.thingiverse.com/thing:1305273)
+
 ## **Fecha de publicación**
 Este repositorio se creó el da 13 de agosto de 2018.
 
