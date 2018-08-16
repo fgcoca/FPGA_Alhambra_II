@@ -1,6 +1,11 @@
 **Índice**   
-1. [FPGA_Alhambra_II](#id1)
-2. [Cochecito 3D FPGA](#id2)
+[FPGA_Alhambra_II](#id1)
+
+[Cochecito 3D FPGA](#id2)
+
+[Autor](#id100)
+
+[Licencia](#id101)
 
 # FPGA_Alhambra_II<a name="id1"></a>
 En este repositorio iré añadiendo todas mis experiencias con esta maravilla de placa que me entregó el gran **Obijuan** en nombre de **Eladio Delgado** en la ***ESPETOS PARTY MAKER 2018***, organizada por **Eufrasio Cabrera**. Asistieron grandes makers y minimakers y lo pasamos genial.
@@ -15,3 +20,11 @@ En las imágenes se ve el primer contacto y el aspecto del soporte con la PCB mo
 # Cochecito 3D FPGA<a name="id2"></a>
 Texto del apartado
 
+## **Autor**<a name="id100"></a>
+
+[Federico Coca Caba] (https://github.com/fgcoca)
+
+## **Licencia**<a name="id101"></a>
+![License][88]
+
+ [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Lapicero/Licencia/licencia.png
