@@ -22,7 +22,7 @@ Texto del apartado
 
 ## **Autor**<a name="id100"></a>
 
-[Federico Coca Caba] (https://github.com/fgcoca)
+[Federico Coca Caba](https://github.com/fgcoca)
 
 ## **Licencia**<a name="id101"></a>
 ![License][88]
