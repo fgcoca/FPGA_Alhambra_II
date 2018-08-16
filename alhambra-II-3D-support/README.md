@@ -48,11 +48,4 @@ En los siguientes enlaces podemos ver un video de prueba con los LEDs internos d
 ## **Fecha de publicación**
 Este repositorio se creó el da 13 de agosto de 2018.
 
-## **Autor**
 
-[Federico Coca Caba] (https://github.com/fgcoca)
-
-## **Licencia**
-![License][88]
-
- [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Lapicero/Licencia/licencia.png
