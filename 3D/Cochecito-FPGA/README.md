@@ -27,11 +27,10 @@ Se ha impreso con los siguientes parámetros:
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [alhambra-II-support.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/Design/alhambra-II-support.fcstd)   | Archivo fuente para **Freecad** 0.17   |
-| [Alhambra-II-Support-with-text.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/stl/Alhambra-II-Support-with-text.stl)   | Archivo STL del soporte con texto   |
-| [Alhambra-II-Support-NO-text.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/stl/Alhambra-II-Support-NO-text.stl)   | Archivo STL del soporte minimalista  |
-| [Alhambra-II-Support-with-text.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/step/Alhambra-II-Support-with-text.step)   | Archivo STEP del soporte con texto  |
-| [Alhambra-II-Support-NO-text.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/step/Alhambra-II-Support-NO-text.step)   | Archivo STEP del soporte minimalista  |
+| []()   | Archivo fuente para **Freecad** 0.17   |
+| []()   | Archivo STL del    |
+| []()   | Archivo STL del   |
+| []()   | Archivo STL del   |
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 16 de agosto de 2018.
