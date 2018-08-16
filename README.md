@@ -12,5 +12,6 @@ En las imágenes se ve el primer contacto y el aspecto del soporte con la PCB mo
  [1]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/Primer-contacto-mini.jpg
  [2]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/Soporte-3D-con-PCB-mini.png
 
-## Cochecito 3D FPGA<a name="id2"></a>
-Texto del segundo apartado
+# Cochecito 3D FPGA<a name="id2"></a>
+Texto del apartado
+
