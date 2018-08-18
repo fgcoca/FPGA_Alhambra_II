@@ -1,6 +1,6 @@
 **Índice**   
 [FPGA_Alhambra_II](#id1) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/alhambra-II-3D-support)    
-[Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos]()    
+[Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Cochecito-FPGA)    
 [Autor](#id100)  
 [Licencia](#id101)
 
@@ -15,7 +15,11 @@ En las imágenes se ve el primer contacto y el aspecto del soporte con la PCB mo
  [2]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/Soporte-3D-con-PCB-mini.png
 
 # Cochecito 3D FPGA<a name="id2"></a>
-Texto del apartado
+Un sencillo cochecito que apunta en la dirección correcta.
+
+[Image][3]
+
+ [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Photos/Top-mini.png
 
 ## **Autor**<a name="id100"></a>
 
