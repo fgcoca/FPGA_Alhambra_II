@@ -27,10 +27,11 @@ Se ha impreso con los siguientes parámetros:
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| []()   | Archivo fuente para **Freecad** 0.17   |
-| []()   | Archivo STL del    |
-| []()   | Archivo STL del   |
-| []()   | Archivo STL del   |
+| [Cochecito FPGA.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Design/Cochecito%20FPGA.fcstd)   | Archivo fuente para **Freecad** 0.17   |
+| [oshw-logo.svg](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Design/oshw-logo-outline.svg)   | Archivo vectorial con el logo OSHW   |
+| [Carroceria.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Carroceria.stl)   | Archivo STL de la carroceria    |
+| [Rueda-eje.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Rueda-eje.stl)   | Archivo STL de la rueda con el eje   |
+| [Rueda.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Rueda.stl)   | Archivo STL de la rueda sin eje   |
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 16 de agosto de 2018.
