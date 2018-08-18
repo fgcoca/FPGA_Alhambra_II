@@ -1,7 +1,7 @@
 **Índice**   
 [FPGA_Alhambra_II](#id1) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/alhambra-II-3D-support)    
-[Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Cochecito-FPGA)
-[Caja para display de 7 segmentos](#id3) -->>  [Acceder a contenidos]()
+[Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Cochecito-FPGA)  
+[Caja para display de 7 segmentos](#id3) -->>  [Acceder a contenidos]()  
 [Autor](#id100)  
 [Licencia](#id101)
 
@@ -23,8 +23,7 @@ Un sencillo cochecito que apunta en la dirección correcta.
  [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Photos/Top-mini.png
  
  # Caja para display de 7 segmentos<a name="id3"></a>
- Cajita sencilla para meter el circuito creado para conexión rápida a la Alhambra II.
- 
+ Cajita sencilla para meter el circuito creado para conexión rápida a la Alhambra II.   
  Está basado en el modelo diseñado por [Obijuan](https://github.com/Obijuan/) cuyos datos podemos encontrar en:
  * [Wiki](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos) 
  * [Repositorio](https://github.com/Obijuan/3D-parts/tree/master/2016-10-05-7seg-box)
