@@ -32,6 +32,8 @@ Un sencillo cochecito que apunta en la dirección correcta.
  * [Wiki](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos) 
  * [Repositorio](https://github.com/Obijuan/3D-parts/tree/master/2016-10-05-7seg-box)
  
+ [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos) 
+ 
 ## **Autor**<a name="id100"></a>
 
 [Federico Coca Caba](https://github.com/fgcoca)
