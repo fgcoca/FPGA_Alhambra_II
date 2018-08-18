@@ -17,7 +17,7 @@ En las imágenes se ve el primer contacto y el aspecto del soporte con la PCB mo
 # Cochecito 3D FPGA<a name="id2"></a>
 Un sencillo cochecito que apunta en la dirección correcta.
 
-[Image][3]
+![Image][3]
 
  [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Photos/Top-mini.png
 
