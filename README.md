@@ -31,7 +31,11 @@ Un sencillo cochecito que apunta en la dirección correcta.
  Está basado en el modelo diseñado por [Obijuan](https://github.com/Obijuan/) cuyos datos podemos encontrar en:
  * [Wiki](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos) 
  * [Repositorio](https://github.com/Obijuan/3D-parts/tree/master/2016-10-05-7seg-box)
- 
+
+Se incluyen ejemplos de uso creados con icestudio, tanto imágenes, como archivos fuente y enlaces a videos para poder ver su funcionamiento. Los ejemplos son:   
+* **Ejemplo 1**: Test de segmentos
+* **Ejemplo 2**: Contador hexadecimal
+* **Ejemplo 3**: Decontador hexadecimal  
  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos) 
  
 ## **Autor**<a name="id100"></a>
