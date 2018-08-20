@@ -47,7 +47,7 @@ También tenemos disponibles los archivos en formato STEP para poderlos abrir co
 
 | Base | Interior tapa | Exterior tapa |
 |-- | -- | -- |
-! [](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Base-caja-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-interior-mini.png) | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-exterior-mini.png)  |
+| ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Base-caja-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-interior-mini.png) | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-exterior-mini.png)  |
 
 Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)
 
