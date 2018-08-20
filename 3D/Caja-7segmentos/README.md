@@ -12,15 +12,12 @@ El primer paso necesario es adaptar el esquema para las nuevas necesidades. El r
  
  [2]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/scheme.png  
  
- Se ha realizado con resistencias de 220 ohmios en lugar de los 100 ohmios originales es simplemente por disposición de material y su única influencia es que los segmentos se iluminarn más debilmente.  
+Si se ha realizado con resistencias de 220 ohmios en lugar de los 100 ohmios originales es simplemente por disposición de material y su única influencia es que los segmentos se iluminarn más debilmente.  
 
 ## **Impresión 3D**
-Descargaar los archivos stl desde la zona de descargas e imprimir una unidad de la carroceria y dos unidades de las ruedas.
-
-Se ha impreso con los siguientes parámetros:
-
-* Material carroceria: ABS verde 
-* Material ruedas: PLA negro
+Descargaar los archivos stl desde la zona de descargas.  
+Se ha impreso con los siguientes parámetros:  
+* Material: PLA Gold Ingeo de Sakata 3D filaments
 * Impresora: Prusa i3 Psique, Nozzle 0.4
 * Laminador: Cura 3.2.1
 * Altura de capa: 0.2mm
@@ -29,11 +26,15 @@ Se ha impreso con los siguientes parámetros:
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [Cochecito FPGA.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Design/Cochecito%20FPGA.fcstd)   | Archivo fuente para **Freecad** 0.17   |
-| [oshw-logo.svg](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Design/oshw-logo-outline.svg)   | Archivo vectorial con el logo OSHW   |
-| [Carroceria.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Carroceria.stl)   | Archivo STL de la carroceria    |
-| [Rueda-eje.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Rueda-eje.stl)   | Archivo STL de la rueda con el eje   |
-| [Rueda.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/stl/Rueda.stl)   | Archivo STL de la rueda sin eje   |
+| [Caja-7segmentos.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Design/Caja-7segmentos.fcstd)   | Archivo fuente para **Freecad** 0.17   |
+| [base-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/base-7segmentos.stl)   | Archivo STL para la parte posterior   |
+| [tapa-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/tapa-7segmentos.stl)   | Archivo STL para la parte delantera   |
+
+También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD.
+| Fichero | Descripción|
+| ---------- | ---------- |
+| [base-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/base-7segmentos.step)   |Archivo STEP para la parte posterior  |
+| [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |
 
 ## **Fecha de publicación**
-Esta entrada al repositorio se creó el da 16 de agosto de 2018.
+Esta entrada al repositorio se creó el da 20 de agosto de 2018.
