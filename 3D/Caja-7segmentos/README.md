@@ -30,11 +30,20 @@ Se ha impreso con los siguientes parámetros:
 | [base-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/base-7segmentos.stl)   | Archivo STL para la parte posterior   |
 | [tapa-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/tapa-7segmentos.stl)   | Archivo STL para la parte delantera   |
 
-También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD.
+También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD. 
+
 | Fichero | Descripción|
 | ---------- | ---------- |
 | [base-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/base-7segmentos.step)   |Archivo STEP para la parte posterior  |
-| [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |
+| [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |  
+
+## **Montaje**
+Realizamos el montaje de la PCB realizando las conexiones sobre una placa perforada siguiendo el esquema anterior. Para una conexión rápida los pines que van a los ándos de los LEDs se llevan a una tira de pines hembra, lo que permitirá un conexionado rápido en la tarjeta **FPGA Alhambra II**. La conexión del cátodo común (GND) la dotamos de un cable tipo dupont con conector hembra en un extremo.  
+ ![Image][3]
+ 
+ [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-7seg-mini.png
+
+
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
