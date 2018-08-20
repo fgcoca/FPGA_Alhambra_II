@@ -38,16 +38,26 @@ También tenemos disponibles los archivos en formato STEP para poderlos abrir co
 | [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |  
 
 ## **Montaje**
-1. Realizamos el montaje de la PCB realizando las conexiones sobre una placa perforada siguiendo el esquema anterior. Para una conexión rápida los pines que van a los ándos de los LEDs se llevan a una tira de pines hembra, lo que permitirá un conexionado rápido en la tarjeta **FPGA Alhambra II**. La conexión del cátodo común (GND) la dotamos de un cable tipo dupont con conector hembra en un extremo.  
+**1. Montaje de la PCB**   
+Realizamos el montaje de la PCB realizando las conexiones sobre una placa perforada siguiendo el esquema anterior. Para una conexión rápida los pines que van a los ándos de los LEDs se llevan a una tira de pines hembra, lo que permitirá un conexionado rápido en la tarjeta **FPGA Alhambra II**. La conexión del cátodo común (GND) la dotamos de un cable tipo dupont con conector hembra en un extremo.  
  ![Image][3]
  
  [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-7seg-mini.png
  
-2. Descargamos e imprimimos las piezas  
+**2. Impresión de piezas**   
+Descargamos e imprimimos las piezas  
 
 | Base | Interior tapa | Exterior tapa |
 |-- | -- | -- |
 | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Base-caja-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-interior-mini.png) | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-exterior-mini.png)  |
+
+**3. Colocación de la PCB**  
+Colocamos la PCB en la tapa o pante anterior de forma que el display de 7 segmentos se vea por la ventana efectuada a tal efecto.
+ ![Image][4]
+ 
+ [4]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-caja-1-mini.png  
+ 
+ 
 
 Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)
 
