@@ -35,3 +35,12 @@ Se ha impreso con los siguientes parámetros:
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 16 de agosto de 2018.
+
+## **Autor**
+
+[Federico Coca Caba](https://github.com/fgcoca)
+
+## **Licencia**
+![License][88]
+
+ [88]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Cochecito-FPGA/Photos/licencia.png
