@@ -110,3 +110,12 @@ Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.you
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
+
+## **Autor**
+
+[Federico Coca Caba](https://github.com/fgcoca)
+
+## **Licencia**
+![License][88]
+
+ [88]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/licencia.png
