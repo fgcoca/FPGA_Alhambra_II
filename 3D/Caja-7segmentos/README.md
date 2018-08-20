@@ -43,7 +43,8 @@ Realizamos el montaje de la PCB realizando las conexiones sobre una placa perfor
  
  [3]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-7seg-mini.png
 
-
+Todas las imágenes las tenemos en el siguiente enlace:  
+![Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
