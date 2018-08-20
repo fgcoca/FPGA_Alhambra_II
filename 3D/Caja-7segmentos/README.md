@@ -78,7 +78,13 @@ En este apartado vamos a describir los tres ejemplos realizados para realizar el
 
 ### **Test de segmentos**
 Para comprobar que todos los diodos LEDs están correctamente conectados vamos a realizar un circuito en [icestudio](https://github.com/FPGAwars/icestudio/) que haga que todos se enciendan y se apaguen cada 4 segundos.  
+El circuito del **ejemplo 1** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-1.ice)) 
 
+![Image][6]
+ 
+[6]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Images/Ejemplo-1%20%E2%94%80%20Icestudio.png
+
+Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=fXAYxmS0DNs&feature=youtu.be)
 
 ### **Contador hexadecimal de un dígito**
 
