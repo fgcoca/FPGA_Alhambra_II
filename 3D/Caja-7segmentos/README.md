@@ -74,7 +74,15 @@ Si por algún motivo queremos conectar la placa de forma externa o a otra tarjet
 | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/dupont-alhambraII-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/dupont-icezum-mini.png) | 
 
 ## **Pruebas**
+En este apartado vamos a describir los tres ejemplos realizados para realizar el test del correcto funcionamiento.
 
+### **Test de segmentos**
+Para comprobar que todos los diodos LEDs están correctamente conectados vamos a realizar un circuito en [icestudio](https://github.com/FPGAwars/icestudio/) que haga que todos se enciendan y se apaguen cada 4 segundos.  
+
+
+### **Contador hexadecimal de un dígito**
+
+### **Decontador hexadecimal de un digito**
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
