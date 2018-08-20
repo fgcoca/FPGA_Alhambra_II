@@ -1,7 +1,7 @@
 **Índice**   
 [FPGA_Alhambra_II](#id1) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/alhambra-II-3D-support)    
 [Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Cochecito-FPGA)  
-[Caja para display de 7 segmentos](#id3) -->>  [Acceder a contenidos]()  
+[Caja para display de 7 segmentos](#id3) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos)  
 [Autor](#id100)  
 [Licencia](#id101)
 
