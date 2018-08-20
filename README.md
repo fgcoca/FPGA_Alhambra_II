@@ -45,4 +45,4 @@ Se incluyen ejemplos de uso creados con icestudio, tanto imágenes, como archivo
 ## **Licencia**<a name="id101"></a>
 ![License][88]
 
- [88]: https://github.com/fgcoca/3D-Design_Robots_Other/blob/master/Lapicero/Licencia/licencia.png
+ [88]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/alhambra-II-3D-support/fhotos/licencia.png
