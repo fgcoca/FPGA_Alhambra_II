@@ -78,7 +78,7 @@ En este apartado vamos a describir los tres ejemplos realizados para realizar el
 
 ### **Test de segmentos**
 Para comprobar que todos los diodos LEDs están correctamente conectados vamos a realizar un circuito en [icestudio](https://github.com/FPGAwars/icestudio/) que haga que todos se enciendan y se apaguen cada 4 segundos.  
-El circuito del **ejemplo 1** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-1.ice)) 
+El circuito del **ejemplo 1** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-1.ice)). Necesitamos para el montaje una [tabla 4-8](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/tabla-bin-4-8.ice) en binario.
 
 ![Image][6]
  
@@ -87,8 +87,26 @@ El circuito del **ejemplo 1** en icestudio. Disponible para [descargar](https://
 Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=fXAYxmS0DNs&feature=youtu.be)
 
 ### **Contador hexadecimal de un dígito**
+En este segundo ejemplo en [icestudio](https://github.com/FPGAwars/icestudio/) vamos a implementar un circuito que realice una cuenta cíclica hexadecimal de un dígito.  
+El circuito del **ejemplo 2** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-2.ice)). Necesitamos para el montaje una [tabla 4-7](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/tabla-hex-4-7.ice) en hexadécimal.
 
-### **Decontador hexadecimal de un digito**
+![Image][7]
+ 
+[7]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Images/Ejemplo-2%20%E2%94%80%20Icestudio.png
+
+Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=0TFfjMD-Fqs&feature=youtu.be)
+
+
+### ** Decontador hexadecimal de un digito**
+Este tercer ejemplo en [icestudio](https://github.com/FPGAwars/icestudio/) realizamos un circuito que haga una cuenta cíclica hexadecimal descendente de un dígito.  
+El circuito del **ejemplo 3** en icestudio. Disponible para [descargar](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Ejemplo-3.ice)). Necesitamos para el montaje una [tabla 4-7](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/tabla-hex-4-7.ice) en hexadécimal.
+
+![Image][8]
+ 
+[8]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Test/Images/Ejemplo-3%20%E2%94%80%20Icestudio.png
+
+Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=kwbm4inp-pA&feature=youtu.be)
+
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
