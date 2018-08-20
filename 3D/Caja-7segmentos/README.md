@@ -6,7 +6,7 @@
 
 # **Introducción**  
 Para poder probar ejemplos con un display de 7 segmentos con **FPGA** en la tarjeta **Alhambra II** es necesario montar una plaquita y para evitar problemas de cortos, averias y posibles sustos lo ideal es crear una **carcasa imprimible** para la placa, lo que se hace realidad con un **diseño en 3D** realizado en **FreecCAD**.  
-Pero todo esto no es una idea nueva, sino la adaptación de la idea del maestro @Obijuan tanto de la plaquita, explicada en el [tutorial 24: Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos "tutorial 24: Display de 7 segmentos") como de la caja, basada en la explicada en este [enlace](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos)  
+Pero todo esto no es una idea nueva, sino la adaptación de la idea del maestro **Obijuan** tanto de la plaquita, explicada en el [tutorial 24: Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos "tutorial 24: Display de 7 segmentos") como de la caja, basada en la explicada en este [enlace](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos)  
 El primer paso necesario es adaptar el esquema para las nuevas necesidades. El resultado lo podemos ver en la imagen.  
  ![Image][2]
  
@@ -52,12 +52,16 @@ Descargamos e imprimimos las piezas
 | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Base-caja-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-interior-mini.png) | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Tapa-caja-exterior-mini.png)  |
 
 **3. Colocación de la PCB**  
-Colocamos la PCB en la tapa o pante anterior de forma que el display de 7 segmentos se vea por la ventana efectuada a tal efecto.
- ![Image][4]
+Colocamos la PCB en la tapa o pante anterior de forma que el display de 7 segmentos se vea por la ventana efectuada a tal efecto.  
+![Image][4]
  
- [4]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-caja-1-mini.png  
+[4]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-caja-1-mini.png  
  
+ **4. Cierre**  
+ Colocamos la tapa posterior y ya tenemos el montaje acabado  
+![Image][5]
  
+[5]:  https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-caja-2-mini.png
 
 Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)
 
