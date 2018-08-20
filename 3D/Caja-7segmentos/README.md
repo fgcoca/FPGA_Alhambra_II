@@ -63,7 +63,18 @@ Colocamos la PCB en la tapa o pante anterior de forma que el display de 7 segmen
  
 [5]:  https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Montaje-caja-2-mini.png
 
-Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)
+Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)  
+
+## **Adaptación de conexionado**
+Si por algún motivo queremos conectar la placa de forma externa o a otra tarjeta la solución es muy simple, usamos cables tipo dupont, male/female en este caso, y tenemos el problema solucionado. En las imágenes vemos la idea.
+
+
+| Conexión externa en la Alhambra II | Conexión externa en la icezum Alhambra | 
+|-- | -- | 
+| ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/dupont-alhambraII-mini.png)  | ![](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/dupont-icezum-mini.png) | 
+
+## **Pruebas**
+
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 20 de agosto de 2018.
