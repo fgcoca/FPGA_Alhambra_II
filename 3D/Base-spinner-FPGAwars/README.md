@@ -22,7 +22,7 @@ Dentro del curso **Electrónica Digital para makers con FPGAs Libres** impartido
  
 ## **Impresión 3D**
 Descargaar los archivos stl desde la zona de descargas.  
-Se ha impreso con los siguientes parámetros:  
+En mi caso he realizado la impresión con los siguientes parámetros:  
 * Material: PLA Gold Ingeo de Sakata 3D filaments
 * Impresora: Prusa i3 Psique, Nozzle 0.4
 * Laminador: Cura 3.2.1
@@ -32,29 +32,42 @@ Se ha impreso con los siguientes parámetros:
 ## **Descargas**
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [Caja-7segmentos.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/Design/Caja-7segmentos.fcstd)   | Archivo fuente para **Freecad** 0.17   |
-| [base-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/base-7segmentos.stl)   | Archivo STL para la parte posterior   |
-| [tapa-7segmentos.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/stl/tapa-7segmentos.stl)   | Archivo STL para la parte delantera   |
+| [Spinner-ZZ809-M10.fcstd](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Design/Spinner-ZZ809-M10.fcstd)   | Archivo fuente para **Freecad** 0.17   |
+| [Base.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Base.stl)   | Archivo STL para la base que irá sujeta con chinchetas al corcho   |
+| [Spinner.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Spinner.stl)   | Archivo STL para imprimir el spinner   |
+| [Tapa-rodamiento.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-rodamiento.stl)   | Archivo STL para imprimir la tapa del rodamiento   |
+| [Tapa-tuerca-hembra.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-tuerca-hembra.stl)   | Archivo STL para la hembra de la tapa de tuerca   |
+| [Tapa-tuerca-macho.stl](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STL/Tapa-tuerca-macho.stl)   | Archivo STL para el macho de la tapa de tuerca    |
 
 También tenemos disponibles los archivos en formato STEP para poderlos abrir con otras herramientas CAD. 
 
 | Fichero | Descripción|
 | ---------- | ---------- |
-| [base-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/base-7segmentos.step)   |Archivo STEP para la parte posterior  |
-| [tapa-7segmentos.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/step/tapa-7segmentos.step)   |Archivo STEP para la parte delantera  |  
-
-## **Montaje**
-
-Todas las imágenes las tenemos en el siguiente enlace:  [Fotos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos/images)  
+| [Base.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Base.step)   | Archivo STEP para la base que irá sujeta con chinchetas al corcho   |
+| [Spinner.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Spinner.step)   | Archivo STEP del spinner   |
+| [Tapa-rodamiento.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-rodamiento.step)   | Archivo STEP de la tapa del rodamiento   |
+| [Tapa-tuerca-hembra.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-hembra.step)   | Archivo STEP de la hembra de la tapa de tuerca   |
+| [Tapa-tuerca-macho.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-macho.step)   | Archivo STEP del macho de la tapa de tuerca    |
 
 ## **Pruebas**
-Un video del funcionamiento lo tenemos en el [enlace de Youtube](https://www.youtube.com/watch?v=0TFfjMD-Fqs&feature=youtu.be)
+Un video del funcionamiento del sistema lo tenemos en el [enlace de Youtube]()
 
 ## **Fecha de publicación**
-Esta entrada al repositorio se creó el da 20 de agosto de 2018.
+Esta entrada al repositorio se creó el da 16 de septiembre de 2018.
 
 ## **Créditos**
+*Sobre la tuerca:
+**Nombre:** Printable Metric Nuts - DIN 934
+**sitio de descarga:** https://www.thingiverse.com/thing:582089/files
+**Autor:** Marco. loco - https://www.thingiverse.com/loco
 
+*Sobre el rodamiento 608ZZ:
+**Nombre:** Bearing 608ZZ
+**sitio de descarga:** https://www.thingiverse.com/thing:2085033
+**Autor:** Alexey Chelikanov. Stupid_headcrab - https://www.thingiverse.com/Stupid_headcrab
+
+## **Enlaces**
+Esta información también está disponible en [Thingiverse]()
 
 ## **Autor**
 
