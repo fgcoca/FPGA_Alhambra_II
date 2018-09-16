@@ -8,7 +8,8 @@
 Dentro del curso **Electrónica Digital para makers con FPGAs Libres** impartido por https://github.com/obijuan se hace uso en varias ocasiones del famoso y tan seguido por los jovenes **spinner**. Para poder probar ejemplos que lo usan y seguir teniendo las manos libres he creado una base que permite sujetarlo al **famoso corcho** basado en alguna idea vista en algún lugar que no recuerdo pero que me gustó bastante, se trata de hacer un diseño para **impesión 3D** de tres brazos utilizando tuercas ISO-934 de métrica 10mm para dar peso a los brazos y tener más inercia y un rodamiento **608ZZ**, muy común en impresión 3D, para generar los giros con poco rozamiento.
 
 ## **Vitaminas**
-* 3 tuercas planas ISO-934 M10
+* 3 tuercas planas ISO-934 M10: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/Tuercas.png
+
 * 1 rodamiento 608ZZ
   
  ![Image][2]
