@@ -88,7 +88,7 @@ Esta entrada al repositorio se creó el da 16 de septiembre de 2018.
 **Autor:** Alexey Chelikanov. Stupid_headcrab - https://www.thingiverse.com/Stupid_headcrab
 
 ## **Enlaces**
-Esta información también está disponible en [Thingiverse]()
+Esta información también está disponible en [Thingiverse](https://www.thingiverse.com/thing:3103883)
 
 ## **Autor**
 
