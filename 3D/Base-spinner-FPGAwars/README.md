@@ -2,7 +2,7 @@
 
 ![Image][1] 
 
- [1]: 
+ [1]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/3Montaje-final-m.jpg
  
 # **Introducción**  
 Dentro del curso **Electrónica Digital para makers con FPGAs Libres** impartido por https://github.com/obijuan se hace uso en varias ocasiones del famoso y tan seguido por los jovenes **spinner**. Para poder probar ejemplos que lo usan y seguir teniendo las manos libres he creado una base que permite sujetarlo al **famoso corcho** basado en alguna idea vista en algún lugar que no recuerdo pero que me gustó bastante, se trata de hacer un diseño para **impesión 3D** de tres brazos utilizando tuercas ISO-934 de métrica 10mm para dar peso a los brazos y tener más inercia y un rodamiento **608ZZ**, muy común en impresión 3D, para generar los giros con poco rozamiento.
@@ -49,8 +49,29 @@ También tenemos disponibles los archivos en formato STEP para poderlos abrir co
 | [Tapa-tuerca-hembra.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-hembra.step)   | Archivo STEP de la hembra de la tapa de tuerca   |
 | [Tapa-tuerca-macho.step](https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/STEP/Tapa-tuerca-macho.step)   | Archivo STEP del macho de la tapa de tuerca    |
 
+## **Montaje**
+Partimos del conjunto de piezas impresas:
+
+![Image][4]
+ 
+ [4]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/1-Piezas-impresas-m.jpg
+ 
+ Insertamos las tuercas y el rodamiento en sus lugares:
+ 
+ ![Image][5]
+ 
+ [5]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/2-Montaje-vitaminas-m.jpg
+ 
+ Finalmente colocamos las tapas de los elementos y ponemos el spinner en su base:
+ 
+ ![Image][6]
+ 
+ [6]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Base-spinner-FPGAwars/Media/3Montaje-final-m.jpg
+
+Todos los archivos multimedia están en este [enlace](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Base-spinner-FPGAwars/Media)
+
 ## **Pruebas**
-Un video del funcionamiento del sistema lo tenemos en el [enlace de Youtube]()
+Un video del funcionamiento del sistema lo tenemos en el [enlace de Youtube](https://youtu.be/OPzC9vBRi3I)
 
 ## **Fecha de publicación**
 Esta entrada al repositorio se creó el da 16 de septiembre de 2018.
