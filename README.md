@@ -2,6 +2,7 @@
 [FPGA_Alhambra_II](#id1) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/alhambra-II-3D-support)    
 [Cochecito 3D FPGA](#id2) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Cochecito-FPGA)  
 [Caja para display de 7 segmentos](#id3) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos)  
+[Base para spinner y spinner](#id4) -->>  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Base-spinner-FPGAwars)  
 [Autor](#id100)  
 [Licencia](#id101)
 
@@ -37,6 +38,10 @@ Se incluyen ejemplos de uso creados con icestudio, tanto imágenes, como archivo
 * **Ejemplo 2**: Contador hexadecimal
 * **Ejemplo 3**: Decontador hexadecimal  
  [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Caja-7segmentos) 
+ 
+ # Base para spinner FPGAwars<a name="id4"></a>
+ Una base que permite anclar con chinchetas un spiner a la base de corcho de pruebas de los ejemplos del cusro de FPGAs para cumplimentar el material de trabajo. También se incluye el diseño de un spinner con tuercas M10 y rodamiento 608ZZ
+ [Acceder a contenidos](https://github.com/fgcoca/FPGA_Alhambra_II/tree/master/3D/Base-spinner-FPGAwars) 
  
 ## **Autor**<a name="id100"></a>
 
