@@ -1,13 +1,16 @@
-# **Caja para placa con display de 7 segmentos** 
+# **Base para spinner, spinner con rodamiento 608ZZ y tuercas M10 y tapas para elementos** 
 
 ![Image][1] 
 
- [1]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/thumbnail/Caja-en-pruebas-mini.png
-
+ [1]: 
+ 
 # **Introducción**  
-Para poder probar ejemplos con un display de 7 segmentos con **FPGA** en la tarjeta **Alhambra II** es necesario montar una plaquita y para evitar problemas de cortos, averias y posibles sustos lo ideal es crear una **carcasa imprimible** para la placa, lo que se hace realidad con un **diseño en 3D** realizado en **FreecCAD**.  
-Pero todo esto no es una idea nueva, sino la adaptación de la idea del maestro **Obijuan** tanto de la plaquita, explicada en el [tutorial 24: Display de 7 segmentos](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-24:-Display-de-7-segmentos "tutorial 24: Display de 7 segmentos") como de la caja, basada en la explicada en este [enlace](https://github.com/Obijuan/3D-parts/wiki/Carcasa-para-placa-con-display-7-segmentos)  
-El primer paso necesario es adaptar el esquema para las nuevas necesidades. El resultado lo podemos ver en la imagen.  
+Dentro del curso **Electrónica Digital para makers con FPGAs Libres** impartido por https://github.com/obijuan se hace uso en varias ocasiones del famoso y tan seguido por los jovenes **spinner**. Para poder probar ejemplos que lo usan y seguir teniendo las manos libres he creado una base que permite sujetarlo al **famoso corcho** basado en alguna idea vista en algún lugar que no recuerdo pero que me gustó bastante, se trata de hacer un diseño para **impesión 3D** de tres brazos utilizando tuercas ISO-934 de métrica 10mm para dar peso a los brazos y tener más inercia y un rodamiento **608ZZ**, muy común en impresión 3D, para generar los giros con poco rozamiento.
+
+## **Vitaminas**
+* 3 tuercas planas ISO-934 M10
+* 1 rodamiento 608ZZ
+  
  ![Image][2]
  
  [2]: https://github.com/fgcoca/FPGA_Alhambra_II/blob/master/3D/Caja-7segmentos/images/scheme.png  
